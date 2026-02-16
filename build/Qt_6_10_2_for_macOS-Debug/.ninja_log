@@ -1,109 +1,15 @@
 # ninja log v6
-4	18	1770990947435214713	.qt/appsnake_qml.txt	6f36a659ea64627e
-4	17	1770990947434717959	.qt/appsnake_res.txt	cc64c01367faab6c
-10	43	1770994810469942907	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_autogen/timestamp	8e854496c6765b43
-5	86	1770990947502416429	.qt/qml_imports/appsnake_build.cmake	32ec193561e5538c
-4	18	1770990947435214713	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/appsnake_qml.txt	6f36a659ea64627e
-10	43	1770994810469942907	appsnake_autogen/timestamp	8e854496c6765b43
-1976	2374	1770990949791582408	.rcc/qmlcache/appsnake_qmlcache_loader.cpp	a4bfbd2e66483b2d
-44	53	1770994810513138696	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/appsnake_json_file_list.txt.timestamp	44abc899783e899a
-44	53	1770994810513138696	meta_types/appsnake_json_file_list.txt	44abc899783e899a
-358	403	1770994749946073224	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/snake/appsnake.qmltypes	669b492eabf168c8
-53	65	1770994810513536825	meta_types/qt6appsnake_metatypes.json.gen	ed0f997e7bf28b6d
-5	86	1770990947502416429	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/qml_imports/appsnake_build.cmake	32ec193561e5538c
-4	1921	1770990949338249389	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/.qmlls.build.ini	3ae5895275b7a298
-1976	2194	1770990949611441334	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/rcc/qrc_appsnake_raw_qml_0.cpp	b88c601b4c7008bd
-4	1921	1770990949338249389	.qt/.qmlls.build.ini	3ae5895275b7a298
-458	1093	1770994750011205925	CMakeFiles/appsnake.dir/appsnake_qmltyperegistrations.cpp.o	707cbe8c2536b6f1
-44	53	1770994810513138696	meta_types/appsnake_json_file_list.txt.timestamp	44abc899783e899a
-44	53	1770994810513138696	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/appsnake_json_file_list.txt	44abc899783e899a
-1976	2194	1770990949611441334	.qt/rcc/qrc_appsnake_raw_qml_0.cpp	b88c601b4c7008bd
-459	1136	1770994750011448594	CMakeFiles/appsnake.dir/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_Main_qml.cpp.o	ad90d814eefaa8ed
-1976	2374	1770990949791582408	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_qmlcache_loader.cpp	a4bfbd2e66483b2d
-2853	2890	1770990950271099128	CMakeFiles/appsnake.dir/build/Qt_6_10_2_for_macOS-Debug/.qt/rcc/qrc_qmake_snake.cpp.o	9d4466a8e4b23ef0
-358	403	1770994749946073224	snake/appsnake.qmltypes	669b492eabf168c8
-1976	2194	1770990949611621544	.qt/rcc/qrc_qmake_snake.cpp	c250d2cbf690ee7d
-4	17	1770990947434717959	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/appsnake_res.txt	cc64c01367faab6c
-1976	2194	1770990949611621544	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/rcc/qrc_qmake_snake.cpp	c250d2cbf690ee7d
-53	65	1770994810513536825	meta_types/qt6appsnake_metatypes.json	ed0f997e7bf28b6d
-53	65	1770994810513536825	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/qt6appsnake_metatypes.json.gen	ed0f997e7bf28b6d
-53	65	1770994810513536825	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/qt6appsnake_metatypes.json	ed0f997e7bf28b6d
-403	458	1770994750008537439	.rcc/qmlcache/appsnake_Main_qml.cpp	6a31ed611f0a6d3d
-403	458	1770994750008537439	.rcc/qmlcache/appsnake_Main_qml.cpp.aotstats	6a31ed611f0a6d3d
-2853	2889	1770990950271459964	CMakeFiles/appsnake.dir/build/Qt_6_10_2_for_macOS-Debug/.qt/rcc/qrc_appsnake_raw_qml_0.cpp.o	d8ac0563e16d3883
-10	43	1770994810469942907	appsnake_autogen/mocs_compilation.cpp	8e854496c6765b43
-2853	3753	1770990950271208629	CMakeFiles/appsnake.dir/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_qmlcache_loader.cpp.o	d4dc30a49ea9bcea
-10	43	1770994810469942907	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_autogen/mocs_compilation.cpp	8e854496c6765b43
-358	403	1770994749946073224	appsnake_qmltyperegistrations.cpp	669b492eabf168c8
-2853	3715	1770990950270844293	CMakeFiles/appsnake.dir/main.cpp.o	b7edd6fb5de20915
-2852	2883	1770990950270625750	CMakeFiles/appsnake.dir/appsnake_autogen/mocs_compilation.cpp.o	26cab750f6bde183
-403	458	1770994750008537439	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_Main_qml.cpp	6a31ed611f0a6d3d
-403	458	1770994750008537439	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_Main_qml.cpp.aotstats	6a31ed611f0a6d3d
-358	403	1770994749946073224	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_qmltyperegistrations.cpp	669b492eabf168c8
-3753	3856	1770990951171231965	appsnake.app/Contents/MacOS/appsnake	4c24cc916c82dc56
-9	20	1770994873284279000	.qt/appsnake_res.txt	cc64c01367faab6c
-9	20	1770994873284279000	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/appsnake_res.txt	cc64c01367faab6c
-10	79	1770994873343349747	.qt/qml_imports/appsnake_build.cmake	32ec193561e5538c
-10	79	1770994873343349747	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/qml_imports/appsnake_build.cmake	32ec193561e5538c
-79	106	1770994873344090880	appsnake_autogen/timestamp	8e854496c6765b43
-79	106	1770994873344090880	appsnake_autogen/mocs_compilation.cpp	8e854496c6765b43
-79	106	1770994873344090880	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_autogen/timestamp	8e854496c6765b43
-79	106	1770994873344090880	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_autogen/mocs_compilation.cpp	8e854496c6765b43
-106	115	1770994873379861204	meta_types/appsnake_json_file_list.txt	44abc899783e899a
-106	115	1770994873379861204	meta_types/appsnake_json_file_list.txt.timestamp	44abc899783e899a
-106	115	1770994873379861204	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/appsnake_json_file_list.txt	44abc899783e899a
-106	115	1770994873379861204	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/appsnake_json_file_list.txt.timestamp	44abc899783e899a
-106	118	1770994873382271354	.qt/rcc/qrc_appsnake_raw_res_0.cpp	ce1391b83e98368d
-106	118	1770994873382271354	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/rcc/qrc_appsnake_raw_res_0.cpp	ce1391b83e98368d
-106	119	1770994873383842703	.rcc/qmlcache/appsnake_qmlcache_loader.cpp	a4bfbd2e66483b2d
-106	119	1770994873383842703	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_qmlcache_loader.cpp	a4bfbd2e66483b2d
-115	127	1770994873380435252	meta_types/qt6appsnake_metatypes.json.gen	ed0f997e7bf28b6d
-115	127	1770994873380435252	meta_types/qt6appsnake_metatypes.json	ed0f997e7bf28b6d
-115	127	1770994873380435252	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/qt6appsnake_metatypes.json.gen	ed0f997e7bf28b6d
-115	127	1770994873380435252	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/qt6appsnake_metatypes.json	ed0f997e7bf28b6d
-127	165	1770994873428618494	.rcc/qmlcache/appsnake_Main_qml.cpp	ae63123e36dd6a19
-127	165	1770994873428618494	.rcc/qmlcache/appsnake_Main_qml.cpp.aotstats	ae63123e36dd6a19
-127	165	1770994873428618494	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_Main_qml.cpp	ae63123e36dd6a19
-127	165	1770994873428618494	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_Main_qml.cpp.aotstats	ae63123e36dd6a19
-166	192	1770994873431179937	CMakeFiles/appsnake.dir/build/Qt_6_10_2_for_macOS-Debug/.qt/rcc/qrc_appsnake_raw_res_0.cpp.o	d5369d5d897e2718
-166	831	1770994873431064269	CMakeFiles/appsnake.dir/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_Main_qml.cpp.o	ad90d814eefaa8ed
-166	897	1770994873430963810	CMakeFiles/appsnake.dir/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_qmlcache_loader.cpp.o	d4dc30a49ea9bcea
-9	21	1770995590436334000	.qt/appsnake_res.txt	cc64c01367faab6c
-9	21	1770995590436334000	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/appsnake_res.txt	cc64c01367faab6c
-21	335	1770995590741309000	appsnake_autogen/timestamp	8e854496c6765b43
-21	335	1770995590741309000	appsnake_autogen/mocs_compilation.cpp	8e854496c6765b43
-21	335	1770995590741309000	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_autogen/timestamp	8e854496c6765b43
-21	335	1770995590741309000	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_autogen/mocs_compilation.cpp	8e854496c6765b43
-336	346	1770995590761864861	meta_types/appsnake_json_file_list.txt	44abc899783e899a
-336	346	1770995590761864861	meta_types/appsnake_json_file_list.txt.timestamp	44abc899783e899a
-336	346	1770995590761864861	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/appsnake_json_file_list.txt	44abc899783e899a
-336	346	1770995590761864861	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/appsnake_json_file_list.txt.timestamp	44abc899783e899a
-336	357	1770995590773301185	.qt/rcc/qrc_appsnake_raw_res_0.cpp	ce1391b83e98368d
-336	357	1770995590773301185	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/rcc/qrc_appsnake_raw_res_0.cpp	ce1391b83e98368d
-346	358	1770995590774154000	meta_types/qt6appsnake_metatypes.json.gen	ed0f997e7bf28b6d
-346	358	1770995590774154000	meta_types/qt6appsnake_metatypes.json	ed0f997e7bf28b6d
-346	358	1770995590774154000	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/qt6appsnake_metatypes.json.gen	ed0f997e7bf28b6d
-346	358	1770995590774154000	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/qt6appsnake_metatypes.json	ed0f997e7bf28b6d
-358	394	1770995590799987578	appsnake_qmltyperegistrations.cpp	669b492eabf168c8
-358	394	1770995590799987578	snake/appsnake.qmltypes	669b492eabf168c8
-358	394	1770995590799987578	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_qmltyperegistrations.cpp	669b492eabf168c8
-358	394	1770995590799987578	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/snake/appsnake.qmltypes	669b492eabf168c8
-394	448	1770995590862659835	.rcc/qmlcache/appsnake_Main_qml.cpp	ae63123e36dd6a19
-394	448	1770995590862659835	.rcc/qmlcache/appsnake_Main_qml.cpp.aotstats	ae63123e36dd6a19
-394	448	1770995590862659835	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_Main_qml.cpp	ae63123e36dd6a19
-394	448	1770995590862659835	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_Main_qml.cpp.aotstats	ae63123e36dd6a19
-449	483	1770995590865514155	CMakeFiles/appsnake.dir/build/Qt_6_10_2_for_macOS-Debug/.qt/rcc/qrc_appsnake_raw_res_0.cpp.o	d5369d5d897e2718
-449	1084	1770995590865175318	CMakeFiles/appsnake.dir/appsnake_qmltyperegistrations.cpp.o	707cbe8c2536b6f1
-449	1127	1770995590865391696	CMakeFiles/appsnake.dir/build/Qt_6_10_2_for_macOS-Debug/.rcc/qmlcache/appsnake_Main_qml.cpp.o	ad90d814eefaa8ed
-10	43	1770995790830097174	appsnake_autogen/timestamp	8e854496c6765b43
-10	43	1770995790830097174	appsnake_autogen/mocs_compilation.cpp	8e854496c6765b43
-10	43	1770995790830097174	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_autogen/timestamp	8e854496c6765b43
-10	43	1770995790830097174	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/appsnake_autogen/mocs_compilation.cpp	8e854496c6765b43
-44	54	1770995790873766121	meta_types/appsnake_json_file_list.txt	44abc899783e899a
-44	54	1770995790873766121	meta_types/appsnake_json_file_list.txt.timestamp	44abc899783e899a
-44	54	1770995790873766121	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/appsnake_json_file_list.txt	44abc899783e899a
-44	54	1770995790873766121	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/appsnake_json_file_list.txt.timestamp	44abc899783e899a
-54	79	1770995790874095541	meta_types/qt6appsnake_metatypes.json.gen	ed0f997e7bf28b6d
-54	79	1770995790874095541	meta_types/qt6appsnake_metatypes.json	ed0f997e7bf28b6d
-54	79	1770995790874095541	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/qt6appsnake_metatypes.json.gen	ed0f997e7bf28b6d
-54	79	1770995790874095541	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/meta_types/qt6appsnake_metatypes.json	ed0f997e7bf28b6d
+1197	1296	1771239723063917138	snake2.app/Contents/MacOS/snake2	15f6957a3918bb64
+352	1094	1771239722219134858	CMakeFiles/snake2.dir/main.cpp.o	f3dafba8eacbfc7d
+352	1112	1771239722218942232	CMakeFiles/snake2.dir/snake2_autogen/mocs_compilation.cpp.o	f00c62e01da25aa0
+352	1197	1771239722219258901	CMakeFiles/snake2.dir/mainwindow.cpp.o	e082ad3d79ca7baa
+7	351	1771239722207916000	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QTF/snake2/build/Qt_6_10_2_for_macOS-Debug/snake2_autogen/mocs_compilation.cpp	6fd0d1249dc66302
+7	351	1771239722207916000	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QTF/snake2/build/Qt_6_10_2_for_macOS-Debug/snake2_autogen/timestamp	6fd0d1249dc66302
+7	351	1771239722207916000	snake2_autogen/mocs_compilation.cpp	6fd0d1249dc66302
+7	351	1771239722207916000	snake2_autogen/timestamp	6fd0d1249dc66302
+8	39	1771239774972037086	snake2_autogen/timestamp	6fd0d1249dc66302
+8	39	1771239774972037086	snake2_autogen/mocs_compilation.cpp	6fd0d1249dc66302
+8	39	1771239774972037086	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QTF/snake2/build/Qt_6_10_2_for_macOS-Debug/snake2_autogen/timestamp	6fd0d1249dc66302
+8	39	1771239774972037086	/Users/aleksandrchuvilov/Desktop/New chapter/KP_QTF/snake2/build/Qt_6_10_2_for_macOS-Debug/snake2_autogen/mocs_compilation.cpp	6fd0d1249dc66302
+39	794	1771239775002924152	CMakeFiles/snake2.dir/mainwindow.cpp.o	e082ad3d79ca7baa
+794	887	1771239775757346490	snake2.app/Contents/MacOS/snake2	15f6957a3918bb64

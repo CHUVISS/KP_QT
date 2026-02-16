@@ -35,7 +35,7 @@ set(__QT_DEPLOY_SYSTEM_NAME "Darwin")
 set(__QT_DEPLOY_SHARED_LIBRARY_SUFFIX ".dylib")
 set(__QT_DEPLOY_IS_SHARED_LIBS_BUILD "ON")
 set(__QT_DEPLOY_TOOL "/Users/aleksandrchuvilov/Qt/6.10.2/macos/bin/macdeployqt")
-set(__QT_DEPLOY_IMPL_DIR "/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt")
+set(__QT_DEPLOY_IMPL_DIR "/Users/aleksandrchuvilov/Desktop/New chapter/KP_QTF/snake2/build/Qt_6_10_2_for_macOS-Debug/.qt")
 set(__QT_DEPLOY_VERBOSE "")
 set(__QT_CMAKE_EXPORT_NAMESPACE "Qt6")
 set(__QT_LIBINFIX "")
@@ -60,9 +60,8 @@ set(__QT_DEPLOY_QT_DEBUG_POSTFIX "")
 
 # Define the CMake commands to be made available during deployment.
 set(__qt_deploy_support_files
-    "/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/.qt/QtDeployTargets.cmake"
+    "/Users/aleksandrchuvilov/Desktop/New chapter/KP_QTF/snake2/build/Qt_6_10_2_for_macOS-Debug/.qt/QtDeployTargets.cmake"
     "/Users/aleksandrchuvilov/Qt/6.10.2/macos/lib/cmake/Qt6Core/Qt6CoreDeploySupport.cmake"
-    "/Users/aleksandrchuvilov/Qt/6.10.2/macos/lib/cmake/Qt6Qml/Qt6QmlDeploySupport.cmake"
 )
 foreach(__qt_deploy_support_file IN LISTS __qt_deploy_support_files)
     include("${__qt_deploy_support_file}")
