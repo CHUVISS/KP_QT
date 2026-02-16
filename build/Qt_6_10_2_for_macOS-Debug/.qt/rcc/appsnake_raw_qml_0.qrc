@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/snake/">
+    <file alias="Main.qml">/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/Main.qml</file>
+  </qresource>
+</RCC>
+

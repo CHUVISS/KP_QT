@@ -1,0 +1,27 @@
+{
+    "classes": [
+        {
+            "className": "SnakeGame",
+            "lineNumber": 13,
+            "object": true,
+            "qualifiedClassName": "SnakeGame",
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 0,
+                    "lineNumber": 27,
+                    "name": "updateGame",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "snake.h",
+    "outputRevision": 69
+}

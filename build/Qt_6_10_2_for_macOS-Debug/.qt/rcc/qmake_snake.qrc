@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/snake">
+    <file alias="qmldir">/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/build/Qt_6_10_2_for_macOS-Debug/snake/qmldir</file>
+  </qresource>
+</RCC>
+

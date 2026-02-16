@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "/Users/aleksandrchuvilov/Desktop/New chapter/KP_QT/snake/Main.qml"
+                }
+            ],
+            "moduleId": "snake(appsnake)"
+        }
+    ]
+}
